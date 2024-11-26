@@ -1,6 +1,7 @@
-# Fundamentos de Linguagem Python Para Análise de Dados e Data Science  
+# Fundamentos de Linguagem Python Para Análise de Dados e Data Science 📚✏️
 
 Este projeto consiste nas anotações feitas durante o curso Fundamentos de Linguagem Python Para Análise de Dados e Data Science criado pela Data Science academy. 
+Esse curso foi iniciado em 25/11/2024.
 
 ## 📈 Ferramentas Utilizadas  
 - **Python**: Linguagem principal para manipulação e visualização de dados.  
